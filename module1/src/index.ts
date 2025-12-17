@@ -9,3 +9,6 @@ const myFriendInfo : [string, number] = ["Rony", 2210091554]
 myFriendInfo.push('Dhaka')
 
 console.log(myFriendInfo)
+
+
+
