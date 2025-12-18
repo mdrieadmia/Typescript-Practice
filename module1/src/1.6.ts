@@ -21,3 +21,16 @@ const arr:number[] = [1, 2, 5, 7]
 const newArr: number[]  = arr.map((num: number): number=> num*num)
 
 console.log(newArr)
+
+
+const mentor1 = {
+    nextJs: "Mezbah",
+    typeScript: "Gias",
+    dmbs: "Mir"
+}
+
+const mentor2 = {
+    oop: "Mahid",
+    prigmas: "Ashik"
+}
+
