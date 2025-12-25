@@ -32,5 +32,5 @@
 
     type Roll1= number []
 
-    const rollNumber : Roll1
+    const rollNumber : Roll1 = [1, 2, 3]
 }
