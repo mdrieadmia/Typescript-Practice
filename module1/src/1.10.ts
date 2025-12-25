@@ -35,4 +35,6 @@
         designation1: "Frontend Developer",
         designation2: "Backend Developer"
     }
+
+    
 }
